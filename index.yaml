@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-project:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-06T19:11:38.978058+05:30"
+    description: A Helm chart for Kubernetes
+    digest: c7f4ed061f542d2de56e0a18c3aec288f028b4562781a64df5d9af68efa45833
+    name: nginx-project
+    type: application
+    urls:
+    - https://github.com/karthikvkreddy/helm-poc/nginx-project-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-06T19:11:38.977272+05:30"
